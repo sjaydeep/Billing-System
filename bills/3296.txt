@@ -1,0 +1,22 @@
+	Welcome Food Code Retails
+
+ Bill Number: 3296
+ Customer Name: Jacq Solanki
+ Phone Number: 6677889900
+======================================
+Products		 Qty		Price
+======================================
+Bath Soap		1		40
+Face Wash		2		120
+Body Lotion		1		180
+Rice		3		240
+Wheat		3		720
+Mazza		1		40
+Thumbs UP		3		120
+Sprite		1		40
+--------------------------------------
+Cosmetic Tax			Rs. 17.0
+Grocery Tax			Rs. 96.0
+Cold Drinks Tax			Rs. 10.0
+Total Bill :			Rs .1623.0
+--------------------------------------
